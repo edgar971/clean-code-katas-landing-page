@@ -1,0 +1,15 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "Clean Code Challenges Landing Page",
+  "main": "index.js",
+  "author": "Edgar Pino ",
+  "private": true,
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.9.7",
+    "typescript": "^3.0.1"
+  }
+}
